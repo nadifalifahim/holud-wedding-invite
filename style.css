@@ -801,3 +801,15 @@ a {
     rgba(255, 248, 248, 1) 100%
   );
 }
+
+.address-text {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  text-align: center;
+}
+
+.address-text span {
+  font-size: 4rem;
+  margin-left: 1rem;
+}
